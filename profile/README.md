@@ -1,60 +1,38 @@
 # Artifice Machine
 
-> *Une machine d'artifice.*
->
-> A workshop for artificial intelligence.
-> Tools, protocols, published thinking.
+**Castings and findings in artificial intelligence.**
 
----
+A small workshop building tools, protocols, and systems for thinking with
+machines. We work on the **harness** around AI models — the structure,
+coordination, memory, and discipline that turn a capable model into useful
+work. We don't train foundation models; our work begins where theirs ends.
+
+🔗 **[artificemachine.com](https://artificemachine.com)** · A brand of NewBlacc
 
 ## What we make
 
-**Protocols.** Open agreements about how AI tooling should be structured so that things interoperate. The first protocol is [Synod](https://github.com/artificemachine/synod), a coordination protocol for clusters of AI agents that deliberate, decide, and learn together.
+- **Protocols** — open agreements for how AI systems coordinate and interoperate.
+- **Tools** — concrete, installable programs that implement them.
+- **Foundries** — pre-assembled configurations of agents and tools for a kind of work.
+- **Published thinking** — what we learn by building, written down, dated, and signed.
 
-**Tools.** Concrete programs that an operator can install and run. Tools implement protocols. They are opinionated where the protocols are general.
+## Tools & protocols
 
-**Configurations.** Pre-assembled clusters of agents and tools, ready for a particular kind of work. A configuration for a single developer working alone. A configuration for a small team.
+| Project | What it is |
+|---|---|
+| [superharness](https://github.com/artificemachine/superharness) | Multi-agent task coordination for Claude Code, Codex, Gemini & OpenCode — shared contract, lifecycle, handoff protocol, dashboard |
+| [obsidian-semantic-mcp](https://github.com/artificemachine/obsidian-semantic-mcp) | MCP server for Obsidian — semantic search over your vault (pgvector + embeddings) |
+| [token-diet](https://github.com/artificemachine/token-diet) | Context-cost optimization layer for Claude Code — cuts context 60–90% |
+| [pencil-sync](https://github.com/artificemachine/pencil-sync) | Bidirectional sync between Pencil.dev designs and frontend code |
+| [vidistiller](https://github.com/artificemachine/vidistiller) | Self-hosted video transcription API — markdown output with timestamps |
 
-**Published thinking.** What we learn by building, we write down. Essays, technical notes, post-mortems, design rationales. Released under permissive licenses.
-
----
+More in the workshop — **Synod** (multi-agent deliberation protocol),
+**Morpheme** (agent-session observability), **Tessera** (vault attachment
+memory): see [artificemachine.com](https://artificemachine.com).
 
 ## Principles
 
-The work is governed by seven principles, in order of weight:
-
-1. **The harness, not the model.** We build the structure around models. We do not train foundation models.
-2. **The work survives the worker.** Built for the decade, not the news cycle.
-3. **The mark of the maker.** Every artifact carries its maker's name.
-4. **Small workshop, sharp tools.** Growth is not a virtue in itself.
-5. **The apprentice is welcome.** Documented as if for someone who walked in this morning.
-6. **Failure is catalogued.** Mistakes recorded with the same care as successes.
-7. **The operator owns their work.** Their data, their decisions, their tools.
-
-The full charter lives at [artificemachine.com](https://artificemachine.com).
-
----
-
-## Lineage
-
-We are not the first to build machines that build machines. We claim ancestors: the Hellenistic engineers of Alexandria, the medieval guilds, Vaucanson, Babbage and Lovelace, the Bauhaus, Bell Labs in its great period, Xerox PARC, the early Free Software Foundation. We do not claim equivalence. We claim membership in the same craft.
-
----
-
-## Operated by
-
-Artifice Machine is a brand of [NewBlacc](https://github.com/newblacc).
-
-A one-person workshop. Solo operator, working in the open.
-
----
-
-## Contact
-
-- **Web**: [artificemachine.com](https://artificemachine.com)
-- **General**: hello@artificemachine.com
-- **Security**: security@artificemachine.com (see [SECURITY.md](SECURITY.md))
-
----
-
-*Established 2026. The furnace is lit.*
+- **The harness, not the model.**
+- **The cast survives the caster** — built for the decade, not the news cycle.
+- **The operator owns their work** — local-first, no telemetry, no engagement-farming.
+- **The mark of the maker** — every artifact signed, dated, and honestly documented.
