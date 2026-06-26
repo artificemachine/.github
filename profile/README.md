@@ -29,3 +29,10 @@ work. We don't train foundation models; our work begins where theirs ends.
 More in the workshop — **Synod** (multi-agent deliberation protocol),
 **Morpheme** (agent-session observability), **Tessera** (vault attachment
 memory): see [artificemachine.com](https://artificemachine.com).
+
+## Principles
+
+- **The harness, not the model.**
+- **The cast survives the caster** — built for the decade, not the news cycle.
+- **The operator owns their work** — local-first, no telemetry, no engagement-farming.
+- **The mark of the maker** — every artifact signed, dated, and honestly documented.
