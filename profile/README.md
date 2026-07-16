@@ -7,7 +7,7 @@ machines. We work on the **harness** around AI models — the structure,
 coordination, memory, and discipline that turn a capable model into useful
 work. We don't train foundation models; our work begins where theirs ends.
 
-🔗 **[artificemachine.com](https://artificemachine.com)** · A brand of NewBlacc
+🔗 **[artificemachine.com](https://artificemachine.com)**
 
 ## What we make
 
