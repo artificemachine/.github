@@ -22,7 +22,6 @@ work. We don't train foundation models; our work begins where theirs ends.
 |---|---|
 | [superharness](https://github.com/artificemachine/superharness) | Multi-agent task coordination for Claude Code, Codex, Gemini & OpenCode — shared contract, lifecycle, handoff protocol, dashboard |
 | [obsidian-semantic-mcp](https://github.com/artificemachine/obsidian-semantic-mcp) | MCP server for Obsidian — semantic search over your vault (pgvector + embeddings) |
-| [token-diet](https://github.com/artificemachine/token-diet) | Context-cost optimization layer for Claude Code — cuts context 60–90% |
 | [pencil-sync](https://github.com/artificemachine/pencil-sync) | Bidirectional sync between Pencil.dev designs and frontend code |
 | [vidistiller](https://github.com/artificemachine/vidistiller) | Self-hosted video transcription API — markdown output with timestamps |
 
