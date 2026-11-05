@@ -26,6 +26,8 @@ digital imaging. The AI tooling here is his independent practice, started in 202
 |---|---|
 | [superharness](https://github.com/artificemachine/superharness) | Multi-agent task coordination for Claude Code, Codex and OpenCode, shared contract, lifecycle, handoff protocol, dashboard |
 | [obsidian-semantic-mcp](https://github.com/artificemachine/obsidian-semantic-mcp) | MCP server for Obsidian semantic search over your vault (pgvector + embeddings) |
+| [token-diet](https://github.com/artificemachine/token-diet) | Installer and dashboard for Serena symbol navigation, ICM persistent memory, and Context7 library documentation |
+| [pencil-sync](https://github.com/artificemachine/pencil-sync) | Bidirectional sync between Pencil.dev designs and frontend code |
 | [vidistiller](https://github.com/artificemachine/vidistiller) | Self-hosted video transcription API markdown output with timestamps |
 
 More in the workshop, in development — **Synod** (multi-agent deliberation
