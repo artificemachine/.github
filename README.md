@@ -14,4 +14,4 @@ Maxime Roy is a Software & AI Engineer, open to contract work and full-time role
 | [obsidian-semantic-mcp](https://github.com/artificemachine/obsidian-semantic-mcp) | MCP server that turns an Obsidian vault into a queryable brain for Claude, with semantic search over every note using local embeddings. |
 | [vidistiller](https://github.com/artificemachine/vidistiller) | Self-hosted video platform: transcribes, detects slides, summarizes with LLMs and exports Obsidian-ready Markdown. |
 
-In development, not public yet: **Synod** (coordination protocol for clusters of AI agents), **Morpheme** (live dashboard for AI agent session state) and **Tessera MCP** (semantic search over non-Markdown Obsidian attachments). Details on [artificemachine.com](https://artificemachine.com).
+In development, not public yet: **CaaSiopeia** (search engine for notes and documents that AI assistants can query), **Morpheme** (live dashboard for AI agent session state) and **Tessera MCP** (semantic search over non-Markdown Obsidian attachments). Details on [artificemachine.com](https://artificemachine.com).
